@@ -1,0 +1,1 @@
+node 1_Basics/Basic.js to execute the code in a terminal
